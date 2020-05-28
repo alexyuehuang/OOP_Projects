@@ -1,5 +1,9 @@
-# studios
-base repo for student studio code
+# Introduction
+This page includes all my work in class CSE 332: Object-Oriented Programming. All work are done in C++ and wrote on Visual Studio. Labs 4 & 5 I collaborated with Xuyan Qin and Alice Wang. The studios I collaborated with Xiaowen Ma. Instructions for labs are included. 
+
+
+# Studios
+repo for studio code
 
 For each studio below, list the Github Username of the group member's repo with your work in it.
 2.alexyuehuang
